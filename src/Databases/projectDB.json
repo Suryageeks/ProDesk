@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1201",
+      "name": "PMS system",
+      "desc": "A Mern App",
+      "start": "2022-11-15",
+      "end": "2022-11-30",
+      "diffdates": 15,
+      "status": "inprogress"
+    }
+  ],
+  "colleague": [
+    {
+      "id": "101",
+      "mname": "Arya",
+      "desg": "",
+      "projname": "PMS system",
+      "num": "1234567890",
+      "email": "suryasarkar18@gmail.com"
+    }
+  ],
+  "client": [
+    {
+      "id": "1001",
+      "cname": "XYZ",
+      "comp": "",
+      "num": "",
+      "email": "xyz@gmail.com"
+    }
+  ],
+  "profile": [
+    {
+      "id": "10236",
+      "name": "XYZ",
+      "address": "Sample Road",
+      "desg": "SDE",
+      "email": "arya@gmail.com",
+      "password": "1234",
+      "num": "",
+      "work": "",
+      "files": ""
+    }
+  ],
+  "tasks": [
+    {
+      "id": "101",
+      "name": "Add navbar",
+      "desc": "",
+      "start": "2022-11-15",
+      "end": "2022-11-17",
+      "proname": "PMS system"
+    },
+    {
+      "id": "1024",
+      "name": "Add Navbar",
+      "desc": "",
+      "start": "2022-11-15",
+      "end": "2022-11-17",
+      "proname": "PMS system"
+    }
+  ],
+  "count": [
+    {
+      "id": 1,
+      "count": 1
+    }
+  ],
+  "taskCount": [
+    {
+      "id": 1,
+      "count1": 2
+    }
+  ],
+  "clientCount": [
+    {
+      "id": 1,
+      "count2": 1
+    }
+  ]
+}
